@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30bfbe46-f696-495f-b742-c86f1c34b6fa" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="LoginPage.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PageObjectDemo/LoginPage.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="LoginPagebypytest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testcases/LoginPagebypytest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="103" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="103" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="loginpage2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page2/loginpage2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="191">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PaytmMake.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testcase2/PaytmMake.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="38" column="72" selection-start-line="38" selection-start-column="72" selection-end-line="38" selection-end-column="72" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sample55.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/report/sample55.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/testcases/actualtestcase.py" />
+        <option value="$PROJECT_DIR$/testcases/LoginFaceBook.py" />
+        <option value="$PROJECT_DIR$/testcases/LoginPagebypytest.py" />
+        <option value="$PROJECT_DIR$/PageObjectDemo/LoginPage.py" />
+        <option value="$PROJECT_DIR$/testcase2/LoginPaytmandMakemytrip.py" />
+        <option value="$PROJECT_DIR$/testcase2/test_paytmMake.py" />
+        <option value="$PROJECT_DIR$/page2/loginpage2.py" />
+        <option value="$PROJECT_DIR$/testcase2/PaytmMake.py" />
+        <option value="$PROJECT_DIR$/report/sample55.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Pytest_demo2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pytest_demo2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pytest_demo2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pytest_demo2" type="462c0819:PsiDirectoryNode" />
+              <item name="driver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pytest_demo2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pytest_demo2" type="462c0819:PsiDirectoryNode" />
+              <item name="page2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pytest_demo2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pytest_demo2" type="462c0819:PsiDirectoryNode" />
+              <item name="PageObjectDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pytest_demo2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pytest_demo2" type="462c0819:PsiDirectoryNode" />
+              <item name="report" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pytest_demo2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pytest_demo2" type="462c0819:PsiDirectoryNode" />
+              <item name="testcase2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pytest_demo2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pytest_demo2" type="462c0819:PsiDirectoryNode" />
+              <item name="testcases" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="term&#9;ACTION&#9;ActivateTerminalToolWindow&#10;ter&#9;ACTION&#9;ActivateTerminalToolWindow" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\windows 8\PycharmProjects\Pytest_demo2\pagebjects" />
+      <recent name="C:\Users\windows 8\PycharmProjects\Pytest_demo2\testcases" />
+      <recent name="C:\Users\windows 8\PycharmProjects\Pytest_demo2\pageobject" />
+      <recent name="C:\Users\windows 8\PycharmProjects\Pytest_demo2\driver" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.sample55">
+    <configuration name="loginpage2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Pytest_demo2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/page2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/page2/loginpage2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="sample55" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Pytest_demo2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/report" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/report/sample55.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="py.test for testcase2.PaytmMake" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Pytest_demo2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;testcase2.PaytmMake&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="py.test for testcase2.PaytmMake" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Pytest_demo2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;testcase2.PaytmMake&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="py.test in LoginFaceBook.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Pytest_demo2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testcases/LoginFaceBook.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.py.test in LoginFaceBook.py" />
+      <item itemvalue="Python.loginpage2" />
+      <item itemvalue="Python tests.py.test for testcase2.PaytmMake" />
+      <item itemvalue="Python tests.py.test for testcase2.PaytmMake" />
+      <item itemvalue="Python.sample55" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.sample55" />
+        <item itemvalue="Python tests.py.test for testcase2.PaytmMake" />
+        <item itemvalue="Python tests.py.test for testcase2.PaytmMake" />
+        <item itemvalue="Python.loginpage2" />
+        <item itemvalue="Python tests.py.test in LoginFaceBook.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30bfbe46-f696-495f-b742-c86f1c34b6fa" name="Default" comment="" />
+      <created>1554935477441</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554935477441</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="py_test_for_actualtestcase_faceBookLoginTest - 2019.04.11 at 11h 36m 18s.xml">
+      <configuration name="py.test for actualtestcase.faceBookLoginTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_actualtestcase_faceBookLoginTest - 2019.04.11 at 11h 37m 11s.xml">
+      <configuration name="py.test for actualtestcase.faceBookLoginTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_actualtestcase_py - 2019.04.11 at 11h 37m 29s.xml">
+      <configuration name="py.test in actualtestcase.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_actualtestcase_faceBookLoginTest - 2019.04.11 at 11h 38m 06s.xml">
+      <configuration name="py.test for actualtestcase.faceBookLoginTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_actualtestcase_faceBookLoginTest - 2019.04.11 at 11h 38m 50s.xml">
+      <configuration name="py.test for actualtestcase.faceBookLoginTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_actualtestcase_py - 2019.04.11 at 11h 54m 02s.xml">
+      <configuration name="py.test in actualtestcase.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_LoginFaceBook_py - 2019.04.12 at 08h 33m 28s.xml">
+      <configuration name="py.test in LoginFaceBook.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_LoginFaceBook_py - 2019.04.12 at 08h 34m 29s.xml">
+      <configuration name="py.test in LoginFaceBook.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_LoginPaytmandMakemytrip_test_paytmandMakeMytrip - 2019.04.13 at 00h 06m 28s.xml">
+      <configuration name="py.test for LoginPaytmandMakemytrip.test_paytmandMakeMytrip" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_paytmMake_test_paytmandMakeMytrip - 2019.04.13 at 00h 08m 21s.xml">
+      <configuration name="py.test for test_paytmMake.test_paytmandMakeMytrip" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="10" y="20" width="1346" height="688" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24640287" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.31654677" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24640287" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.50359714" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/PageObjectDemo/LoginPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/LoginFaceBook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobjects/Loginpage.py" />
+    <entry file="file://$PROJECT_DIR$/testcases/actualtestcase.py" />
+    <entry file="file://$PROJECT_DIR$/testcases/LoginFaceBook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="26" selection-end-line="33" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageObjectDemo/LoginPage.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/LoginPagebypytest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="103" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="103" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page2/loginpage2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase2/PaytmMake.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="38" column="72" selection-start-line="38" selection-start-column="72" selection-end-line="38" selection-end-column="72" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/sample55.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
